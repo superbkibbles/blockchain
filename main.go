@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"./blockchain"
+	"github.com/superbkibbles/blockchain"
 )
 
 func main() {

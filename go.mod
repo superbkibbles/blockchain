@@ -1,3 +1,3 @@
-module github.com/mand-programming/golang-blockchain
+module github.com/superbkibbles/blockchain
 
 go 1.13
